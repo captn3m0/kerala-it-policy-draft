@@ -102,7 +102,7 @@ Another speciality of this draft document is that it allows the public and exper
 
 Let us all work together to create a 'NAVAKERALAM'.
 
-![](kerala.png)
+![](map.png)
 
 # VISION
 
@@ -437,7 +437,9 @@ Government can boost the confidence of high achievers in various fields of IT by
 
 To develop Kerala into a fully digitally empowered society, the core infrastructure and connectivity plays a pivotal role in the overall e- Governance programme. Kerala has envisioned to connect all its IT installations and networks across the state to save cost and improved utilization of the core infrastructure. This includes International and National fibre connectivity, Fibre To Home, Mobile connectivity and High speed data connectivity.
 
-## 6.2. IT Industry and allied Infrastructure The Government shall undertake, major projects capable of creating new employment and increasing the IT exports from the State. The same shall be taken up by government or private entrepreneurs as per the existing Private IT park guidelines. The major focus areas would be but not limited to
+## 6.2. IT Industry and allied Infrastructure
+
+The Government shall undertake, major projects capable of creating new employment and increasing the IT exports from the State. The same shall be taken up by government or private entrepreneurs as per the existing Private IT park guidelines. The major focus areas would be but not limited to
 
 1. Expansion of the IT space in the IT parks.
 2. Roads & Surface Connectivity - especially to the IT hubs
