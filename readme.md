@@ -62,7 +62,7 @@
     - [5.12.4. Encourage high achievers](#5124-encourage-high-achievers)
 - [6. IT & Ancillary Infrastructure](#6-it--ancillary-infrastructure)
   - [6.1. State IT Infrastructure](#61-state-it-infrastructure)
-  - [6.2. IT Industry and allied Infrastructure The Government shall undertake, major projects capable of creating new employment and increasing the IT exports from the State. The same shall be taken up by government or private entrepreneurs as per the existing Private IT park guidelines. The major focus areas would be but not limited to](#62-it-industry-and-allied-infrastructure-the-government-shall-undertake-major-projects-capable-of-creating-new-employment-and-increasing-the-it-exports-from-the-state-the-same-shall-be-taken-up-by-government-or-private-entrepreneurs-as-per-the-existing-private-it-park-guidelines-the-major-focus-areas-would-be-but-not-limited-to)
+  - [6.2. IT Industry and allied Infrastructure](#62-it-industry-and-allied-infrastructure)
   - [6.3. IT Infrastructure (Network and Data centre)](#63-it-infrastructure-network-and-data-centre)
   - [6.4. Fab Labs](#64-fab-labs)
   - [6.5. Global Cognitive Fabric](#65-global-cognitive-fabric)
