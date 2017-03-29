@@ -78,7 +78,7 @@
 
 # I.T. Policy Framework 2017
 
-This document contains the Information Technology Policy Framework of the Government of Kerala
+This document contains the Kerala State Information Technology Policy (Draft).
 
 ---
 
