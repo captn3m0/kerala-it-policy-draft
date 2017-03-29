@@ -1,3 +1,10 @@
+---
+type: post
+id: 1
+c_url: http://itmission.kerala.gov.in/it-policy/comment/view/
+---
+{% assign id = 1 %}
+
 # Kerala State Information Technology Policy (Draft).
 
 See [notes.md] for information on this document.
@@ -108,9 +115,15 @@ Let us all work together to create a 'NAVAKERALAM'.
 
 ![](map.png)
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 # VISION
 
 Establish Kerala a Knowledge Powered Digital Society by 2020 through application of Digital Technologies in areas of Digital Citizenship, Digital Lifestyle and Digital commerce; within the governing principles of Freedom, Ubiquity, Inclusion, Transparency, Safety and Security for all; aligned to technology trends, citizen and industry needs; to provide overall social and economic empowerment of citizens
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 # 1. Introduction
 
@@ -119,6 +132,9 @@ The State of Kerala has always been working towards adoption and application of 
 The State has been successful in creating a robust Electronics Delivery of Service infrastructure in terms of State wide area network, Data centers and citizen service centers. There has been a good amount of work that has gone into creating a sustainable model for Akshaya, the network of IT entrepreneurs who work under the Brand on a license agreement to deliver public services. Akshaya is one of the most lauded and successful citizen service delivery center models in the country and in the world. The centrally monitored but loosely structured governance mechanism gives it the flexibility and operational nimbleness and at the same time ensures the security and authenticity of public service delivery.
 
 Even though the first IT park and first electronic enterprise were started in Kerala , today we lag behind in software exports and electronics industry. Kerala needs to create a change to make a quantum leap in innovative technologies and to accelerate growth in the above areas. The policy aims to generate projects which will mould Kerala into a Knowledge based society.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 1.1 Kerala IT - snapshot
 
@@ -131,7 +147,12 @@ The agenda of Kerala IT Policy is to lay the goals of establishing Kerala as a l
 3. Time bound and modern marketing systems to attract Domestic and Foreign investments and leverage the growing internal market.
 4. Ensuring that citizen services are made available effectively and create a citizen centric digital economy dovetailing innovative ideas and the vibrant startup ecosystem.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 # 2. Kerala IT Policy Framework 2017 - Elements
+
+{% assign id = id | plus: 1 %}
 
 ## 2.1. Objectives
 
@@ -158,6 +179,9 @@ The agenda of Kerala IT Policy is to lay the goals of establishing Kerala as a l
 21. Strengthen the operation of Keltron so as to regain the prominence it had in the past and adopt modernization and R&D to matchup with the developments in the Science and Technology Fronts.
 22. R&D institutions shall be established in areas of convergence of IT and Bio Technology and the technologies shall be utilized to improve the quality of exports in fruits, vegetables fish and spices from Kerala
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 2.2. Drivers of the Policy
 
 1. Technology Trends & Innovation - the policy shall attempt to leverage current / futuristic technologies like Massive Open Online Courses (MO005), Artificial Intelligence, Smart home & City technologies, etc., to improve citizens' service and being responsive to the industry on technologies like Robotics, Flexible electronics and Power electronics, Wearable technologies , Autonomous Vehicles-3D printing, Virtual currencies, Aquaponic systems etc.
@@ -165,11 +189,18 @@ The agenda of Kerala IT Policy is to lay the goals of establishing Kerala as a l
 3. Industry Needs - The industry has been requesting a favorable consideration for assistance in creating cost effective infrastructure for "work and life', updated university curriculum for availability of qualified employees and support and assistance for destination competitiveness.
 4. Novel ideas and endeavours will be promoted and its effective facilitation will be ensured in diverse production sectors.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 2.3. Policy Outline
 
 ![](2.3.png)
 
 Detailed policies for respective areas will be created by the various bodies responsible for e-Governance, Human Capital, Commerce and Infrastructure. The roles and responsibilities of the existing governance systems leveraging IT will have to be redefined as per the new policy.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 
 ### 2.3.1. E-Governance Team Structure
 
@@ -177,17 +208,31 @@ This team shall own the Digitization of Government departments and Citizen empow
 
 Involvement of citizens in the Digital Economic systems of the government , creation of smart village /panchayat , empowerment of schools ,backward groups/differently abled etc will be realized through this. This group will cover the formulation of policies aligned to this.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ### 2.3.2. Human Capital Development
 
 This group shall focus on developing Digital talent in the state in all key areas including loT, Mobility, Analytics and Software development, high end embedded electronics, cognitive awareness etc. Partnering with schools, technical education institutions and broader academia is planned to achieve these goals. If needed, new institutions shall be established and managed to meet the goals of the state.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ### 2.3.3. Marketing
 
 This group drives the demand for IT I ITES and focus in bringing global industries and developing IT industries in Kerala through innovation and acceleration capabilities. Sustainable entrepreneurship development shall be the mandate of this group.
 
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ### 2.3.4. Infrastructure and Foundational Capabilities
 
 These groups shall drive all the digital and physical Infrastructure needed for realisation of Digital Kerala. Disaster recovery, Mobile, Wifi and Fibre connectivity shall be part of this team. IT parks infrastructure, interconnectivity facilitation etc. shall be driven by this group.
+
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 
 ## 2.4. Governance Structure
@@ -195,6 +240,10 @@ These groups shall drive all the digital and physical Infrastructure needed for 
 The policy envisages a lean and structured organization in the state for the implementation of the policy. Each individual units will frame their clear roles, responsibilities and structure, which will form part of the sub policies and guidelines
 
 State IT minister shall play the lead role in the development of Information technology and related activities in the state. l.T Minister shall preside over the Board of advisor's meetings and obtain approval from the council of ministers, if necessary, on key issues.
+
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ### 2.4.1. Digital Government Advisory Board
 
@@ -205,29 +254,52 @@ The Board will meet on a quarterly basis and will support and advise the governm
 This Advisory Board shall work in liaison with the elected and (.) appointed leaders of the state to drive comprehensive, cohesive, concerted IT efforts in the state and bring all digital/IT related activities under a common governance. This Board will help with the formulation of guidelines, updated framework and governance model for project execution. The Board would also monitor the timely, efficient execution of projects and services in a time-bound and transparent manner.
 
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
+
 ### 2.4.2. IT Secretary
 
 The IT secretary shall be the senior designated officer in the state who own both the demand as well as the supply of Digital services and resources of the Government The various agencies under the IT department shall be restructured into the following four categories
+
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ### 2.4.3. E-governance
 
 This role of IT mission director has to be redefined to fit the new model of e-Governance Head of the State. IT Mission shall take lead in all the e-governance activities in the state. IT Mission shall, directly and through sub agencies like SEMT, support the e-governance projects in Govt. departments.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ### 2.4.4. IT Parks
 
 This role of IT parks has to be redefined to fit the new model of IT assets and Commercial agencies of the state. The activities of all IT parks (Techno park, info park and Cyber park) shall be consolidated under the single brand 'Kerala IT ' and optimally use the resources (human capability , material, other revenue and assets).
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ### 2.4.5. Human Capacity Development
 
 The combined efforts of the agencies like ICT academy , IIIT-MK, ICFOSS and KSUM is required for IT human capacity building , skill development , institutions of higher studies , excellence in FOSS and Startup development.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ### 2.4.6. Infrastructure Development
 
 KSITIL shall be transformed into an agency for all Infrastructure development in IT sector and all construction, connectivity activities etc. shall be carried out through it.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ### 2.4.7. KPIs and Measures of Success
 
 This has to be defined for each group.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 2.5. Focus areas
 
@@ -238,6 +310,9 @@ The Policy mainly focuses on three areas viz.,
  - Digitally empowered Commerce
 
 These three areas shall between them cover the entire gamut of activities and functions under the department which will enable the state attain its vision of a Knowledge Empowered Digital Society.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 2.6. Sub policies and Guidelines
 
@@ -254,11 +329,16 @@ The following Sub Policies and Guidelines shall be prepared in line with the dir
 
 # 3.Digitally Empowered Citizens
 
+{% assign id = id | plus: 1 %}
+
 ## 3.1. Digital Identity
 
 1. The Government shall initiate action for universal Aadhaar enrollment linking all government data bases.
 2. The government shall empower citizens to access government services through mobile devices for getting government services.
 3. Aadhar based biometric authentication shall be used for KYC purposes and it shall be used for direct disbursement of subsidies and benefits. However in the absence of Aadhar the services shall be given to citizens on the basis of other basic documents. No government services shall be declined for want of Aadhar.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 3.2. Participatory E-governance
 
@@ -266,25 +346,43 @@ The following Sub Policies and Guidelines shall be prepared in line with the dir
 2. The entire file movement in government secretariat and departments shall be made digital
 3. The backend computerization of the departments and the extended offices, PSU5 etc shall be achieved in a time bound manner.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 3.3: Single Government Portal
 
 The Government shall create a single portal for citizens interactions with government and service delivery. The citizen interactions viz., service delivery, grievance /complaints and payment transactions of all departments shall be converged through a single portal. The portal shall be the face of the Government to the citizen and business
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 3.4. FOSS adoption and promotion
 
 The Government has adopted the Free and Open source technologies as one of the basic guiding principles and shall strive for the promotion and adoption of the same. The Government shall make it mandatory for all software solutions made through public funding to adopt free and Open source technologies. Activities to achieve the objectives of IT policy 2007 in these matter shall be taken up.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 3.5. Government Service Delivery
 
 State is embarking on its journey to offer an "Omni-channel experience" of all its e-Governance services through web portal, mobile applications, Akshaya I CSCs and through Integrated Citizen call centres. The objective is to set up and operationalise an effective Single Window for services supported by the core infrastructure and systems. It shall be ensured that all government applications are compliant to Deity guidelines and thereby interoperable.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 3.6. E-services
 
 Government shall attempt to make online, as many services as possible and high volume shall be made across the counter services. Certificates of a one-time issue nature shall be proactively done and kept in a state digital repository with easy search and retrieve provisions. The State shall also attempt to move on to a certificateless system wherein the citizen data is automatically retrievable by the user's system from a common citizen database. Common utility centres shall register the public feedback and corrective measures will be undertaken promptly.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 3.7. Citizen Service Centres
 
 The Akshaya has performed a commendable role by bringing government services to people and business, units, functioning as a single window system. In the journey towards a more matured, complete and comprehensive citizen service delivery center, the Government shall transform the Akshaya eco system into state-of-the- art centres in citizen centric service delivery and centres of excellence in ICT enabled services. Majority of services shall be offered via the Citizen Service Centers.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 3.8. Mobile Governance
 
@@ -295,13 +393,22 @@ To provide the e-Governance services at the fingertips of citizens, Kerala is ad
 3. Enable additional utility services through mobile for ease of access to citizens
 4. To leverage mobile as one of the media to communicate and interact with citizens. 5. Leverage jOT and Social Media for effective planning and delivery of services.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 3.9. e-Procurement system of Kerala
 
 Government of Kerala has implemented the e-Government procurement system to enhance transparency and efficiency in public procurement activities and monitor the same on a real-time basis. This shall follow the Government e Marketplace model to make government. procurements online.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 3.10. Smart Villages / Panchayats
 
 Growth of the State and nation depends on its inclusive growth of rural and urban population. Kerala is.planning for a focused programme to enable the inclusive growth of the state through its Smart Village/Panchayat Programme I
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 3.11. Financial Inclusion and Mobile Banking
 
@@ -309,6 +416,8 @@ Growth of the State and nation depends on its inclusive growth of rural and urba
 2. Online and Mobile Banking shall be adopted for all Government transactions with citizens.
 
 # 4. Digitally Empowered Lifestyle
+
+{% assign id = id | plus: 1 %}
 
 ## 4.1. Digital Literacy
 
@@ -326,13 +435,22 @@ Human capital is undoubtedly the most significant resource for the IT sector. Th
 6. Develop ICFOSS to an International center for FOSS studies.
 7. Develop action plans leveraging ICT to increase the employment possibility and betterment of lifestyle of differently abled
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 4.2. Connected Education Hubs
 
 Technology Education centers will be interconnected through telepresence, video conferencing, and audio conference capabilities. Learning portals will be established to enable remote education
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 4.3. Local networks
 
 Encourage and support community relevant applications covering security of citizens, health, revenue, taxes, etc. Community connect - open governance model for increased citizen H participation in the administration of the district city specifically and governance in general.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 4.4. Local Content
 
@@ -343,9 +461,14 @@ Encourage and support community relevant applications covering security of citiz
 
 # 5.Digital Commerce
 
+{% assign id = id | plus: 1 %}
+
 ## 5.1. Policy for e-commerce
 
 The government shall enact a policy for the enablement of growth of e- commerce in the state. This shall cover the rules and regulations on the ecommerce Industry
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 5.2. Mobile commerce
 
@@ -355,9 +478,15 @@ M-commerce is enabling us to transact commercially from anywhere over the Intern
 2. Applications Infrastructure, and
 3. M-commerce Intermediary
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 5.3. E-business facilitation
 
 Government shall encourage and facilitate the conduct of business processes on the Internet be it 13213 or 132G. These include buying and selling, supplies and services; (including government procurement of Goods and services), processing, payments; managing production, collaborating with partners, information sharing and any other business functions. Government shall encourage StABs to move to a shared infrastructure and Software as a Service to reduce their cost and become more efficient.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 5.4. Innovation and entrepreneurship
 
@@ -366,6 +495,9 @@ The Government of Kerala wishes to leverage the developments in IT sector and th
 1. Creation of an Innovation Ecosystem.
 2. Facilitating the innovation led entrepreneurship especially among students
 3. Involve Industry /R&D institutions
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 5.5. Establishing the Technology Innovation Zone
 
@@ -376,9 +508,15 @@ The Kerala Technology Innovation Zone shall be established to cater to the needs
 3. Requisite resources and ambience is available with nimbleness of operations
 4. Presence of State of the Art labs and other Infrastructure
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 5.6. Grand Innovation Challenge
 
 The Government shall constitute a Grand Innovation Challenge for the upcoming startup ideas on an annual basis and the winner shall be provided sufficient funding and support to realize the idea.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 5.7. Industry development and Job creation
 
@@ -387,13 +525,22 @@ Development of IT Industry is one of the key factors in helping the state move i
 1. Working with the Technical University and the Colleges to ensure that they develop key competencies in their students as per the industry needs.
 2. Devise a curriculum incorporating industry recommendations.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 5.8. Promotion of hyperlocal platforms
 
 To promote the small vendors and unbranded businesses in the state, the state shall promote hyper local platforms which provide aggregation of products and services from such vendors
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 5.9. Kerala App Store
 
 Creation of a Kerala App store for apps catering to the need of the citizen including the citizen services.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 5.10. IT Industry facilitators
 
@@ -403,7 +550,12 @@ Creation of a Kerala App store for apps catering to the need of the citizen incl
  - Incentives/promotion packages
  - SME assistances
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 5.11. Domestic Marketplace
+
+{% assign id = id | plus: 1 %}
 
 ## 5.11.1. Government procurement
 
@@ -412,34 +564,58 @@ The State envisages creation of a vibrant internal market for the IT players and
 a. The companies shall be encouraged to take up pilot project with 1 government in their areas of expertise and on successful completion of the -same scale it up to a larger scope , subject to approvals by the Government.
 b. The companies are also encouraged to submit suo motto proposals to the government on areas of governance public service and new technology paradigms in the area of health, education etc . The proposals shall be selected through a "SWISS CHALLENGE" process.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 5.11.2. Promotion of locally manufactured/assembled products
 
 The companies who provide services to government shall be encouraged to establish their manufacturing /assembly units in the state, leveraging the schemes under the MSIPS and EMC by Government of India. Social security of the employees shall be ensured by Government through innovative means.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 5.12. Brand 'Kerala IT'
+
+{% assign id = id | plus: 1 %}
 
 ### 5.12.1. Delegations
 
 The State shall sent delegations to identified regions/countries in collaboration with the industry organizations and trade and commerce agencies to establish corridors of work and commerce for the Kerala IT companies.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ### 5.12.2. IT Expo Kerala
 
 An annual /bi annual IT expo will be conducted in the state exhibiting its strength and growth potential in IT and also as a measure to bring the futuristic developments across the world to the state. The 'Kerala IT Expo ' shall be a place' for IT companies of Kerala to exhibit credentials, explore business possibilities and engage with national and international players. Specific delegations from countries of business interest shall be invited as State guests for such events. The IT expo shall be a biannual event the first event in 2017 focusing on the smart facilities, Healthcare and Mobility.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ### 5.12.3. International Seminars
 
 IT parks shall host international seminars on Technology /Business thereby exhibit the Kerala's developments in the Technology front to the Global Market.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ### 5.12.4. Encourage high achievers
 
 Government can boost the confidence of high achievers in various fields of IT by introducing a Kerala State award/exchange programme for the Best Achievers in Companies/Company leaders Start ups/Startup leaders (As in Grand Innovation Challenge) Student projects/institutions E Governance projects/teams/departments
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 # 6. IT & Ancillary Infrastructure
+
+{% assign id = id | plus: 1 %}
 
 ## 6.1. State IT Infrastructure
 
 To develop Kerala into a fully digitally empowered society, the core infrastructure and connectivity plays a pivotal role in the overall e- Governance programme. Kerala has envisioned to connect all its IT installations and networks across the state to save cost and improved utilization of the core infrastructure. This includes International and National fibre connectivity, Fibre To Home, Mobile connectivity and High speed data connectivity.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 6.2. IT Industry and allied Infrastructure
 
@@ -452,33 +628,57 @@ The Government shall undertake, major projects capable of creating new employmen
 5. Social Infrastructure in IT Hub, Systems shall be created to ensure safety.
 6. Air Connectivity with Major Cities in India and abroad for better business connects.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 6.3. IT Infrastructure (Network and Data centre)
 The state shall endeavor to ensure the requisite infrastructure for the Telcos to reach the length and breadth of the state and also ensure free access to citizens through Public hotspots.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 6.4. Fab Labs
 
 The MIT (Massachusetts Institute of Technology)fab labs set up in the state have created sufficient interest among the students corporates and general public. The State wishes to bring the fab labs and the DIY (Do It Yourself) culture to address the societal needs while ensuring that the engineering and other technical institutions have mini fab labs installed to impart training to their students.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 6.5. Global Cognitive Fabric
 
 Establishing a Cognitive Computing Hub for growing a global cognitive fabric, a cloud based, knowledge ingestion, curation, learning and insights platform. This fabric will provide infrastructure and resources for aspiring entrepreneurs to embed traditional and acquired knowledge from structured and unstructured big data sources. Government shall initiate the establishment of a Cognitive Decision Science Institute to provide sufficient human resources in the above sector. This hub will attract the industry and academic leaders to invest and interact with the state of Kerala. It will also open up avenues for entrepreneurs to leverage the cognitive revolution and create new jobs that do not exist today.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 6.6. Mobile access for underprivileged families
 
 Access to the right point of contact is one of the ways of ensuring inclusiveness of governance. A program which can help the underprivileged families to connect to the right official in government without inhibition will be initiated and the delivery will be enabled by distributing a basic mobile device capable of connecting to a government app which will help them connect to all concerned in the Government.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 6.7. Mobile devices for women safety
 
 Government shall encourage development of devices for women safety and shall endorse apps which are found to have high impact or high usage and also ensures privacy.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 6.8. Cyber Security
 
 To ensure a secure Digital living, for its citizens the government shall create a secure cyber security framework. The security and privacy of citizen data shall be given priority.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 6.9. Business Continuity
 
 Since the Government and private business/interactions are moving on to the digital domain the Government shall create ample provisions for Disaster recovery and Business continuity, should there be any unforeseen event that may disrupt regular functioning of its IT systems.
 
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 6.10. Free Wi-Fi in public places & IOT enabling
 
@@ -489,6 +689,9 @@ The government plans to set up free public WiFi hotspots in all major places. Th
 3. NGO/community driven hotspots in selected areas
 
 Security Networks:- Government intends to establish security networks by connecting CCTV Cameras, location codes and information and broadcasting networks so as to ensure safety of women and children under the direct supervision of Government.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
 
 ## 6.11. Government Missions
 
@@ -502,6 +705,9 @@ Government wishes to make creative interventions in the following areas:
 
 In these intervEntions government aims at deployment and application of Information Technology and generation of innovative ideas, job opportunities and entrepreneurship through this.
 
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
+
 ## 6.12. Haritha Keralam
 
 As a responsible state, Kerala is taking continuous improvement measures towards a sustainable environment for a healthy society. Many initiatives are being organized and managed in the state by the Government. Various initiatives planned to strengthen Haritha Keralam include:
@@ -512,3 +718,6 @@ As a responsible state, Kerala is taking continuous improvement measures towards
 4. Encourage Green certification of IT organizations and buildings within the state
 5. Develop a Green IT Policy / guideline for the effective electronic waste management depending on the nature and use of the equipment.
 6. Create a special project to make available the benefits of modern scientific technology to the agriculture sector in Kerala. Create a system to utilize the E-commerce, digital marketing provisions and developments in IoT , IT, Biotechnology for the common farmers and to create a database in all the phases viz., production, storage and exports/value addition of agricultural products so as to benefit the farmers.
+
+Click here to comment in [EN]({{page.c_url}}{{id}}/m/EN) or in [ML]({{page.c_url}}{{id}}/m/ML)
+{% assign id = id | plus: 1 %}
