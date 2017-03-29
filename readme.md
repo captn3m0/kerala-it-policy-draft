@@ -1,8 +1,12 @@
+# Kerala State Information Technology Policy (Draft).
+
+See [notes.md] for information on this document.
+
 <!-- START doctoc generated TOC please keep comment here to allow auto update -->
 <!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
 **Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
 
-- [I.T. Policy Framework 2017](#it-policy-framework-2017)
+- [I.T. Policy Framework 2017 (Draft)](#it-policy-framework-2017)
 - [Message from the Chief Minister](#message-from-the-chief-minister)
 - [VISION](#vision)
 - [1. Introduction](#1-introduction)
@@ -76,7 +80,7 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# I.T. Policy Framework 2017
+# I.T. Policy Framework 2017 
 
 This document contains the Kerala State Information Technology Policy (Draft).
 
